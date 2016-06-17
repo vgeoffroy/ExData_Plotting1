@@ -25,7 +25,7 @@ lines(SubHPC_Final$Time_and_Date,                                           # Cr
       type = "l")                                                           # Change the typ of the plot.
 # PLot 3:
 lines(SubHPC_Final$Time_and_Date,                                           # Create a plot - First variable.
-      SubHPC_Final$Sub_metering_3,                                          # Create a plot - second variable.
+      SubHPC_Final$Sub_metering_3,                                          # Create a plot - Second variable.
       col = "blue",                                                         # Color it in blue.
       type = "l")                                                           # Change the type of the plot.
 legend("topright",                                                          # Add a legend on the top right corner.
